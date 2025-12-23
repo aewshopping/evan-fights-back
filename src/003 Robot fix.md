@@ -1,17 +1,26 @@
 ---
-id: "#003"
-title:
-sort_key: auto
-options:
-  - text1:
-    targetid1:
-  - text2:
-    targetid2:
-link1: "[[]]"
-link2: "[[]]"
+id: a003
+permalink: a003
+title: 003 Robot fix
+sort_key_fixed: auto
+sort_key_calc:
+options_text:
+  - You open the robot's chest panel and poke around with a screwdriver.
+  - You press a small silver button on the back of the robot's neck.
+  - You try putting your screwdriver in the belly button if the robot.
+options_id:
+  - a005
+  - a006
+  - a004
+options_link:
+  - "[[005 Gibberish]]"
+  - "[[006 Activating the robot]]"
+  - "[[004 Bodge job]]"
 tags:
   - chapter
   - part1
 ---
 
-Successful fix
+You look carefully at the robot trying to figure out how to fix it.
+
+
