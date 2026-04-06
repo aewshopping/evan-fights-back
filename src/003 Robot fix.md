@@ -21,6 +21,6 @@ tags:
   - part1
 ---
 
-You look carefully at the robot trying to figure out how to fix it.
+You look carefully at the robot trying to figure out how to fix it. It doesn't look easy.
 
 
