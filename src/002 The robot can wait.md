@@ -16,4 +16,4 @@ tags:
 ---
 
 
-You open all your presents, there are some really good ones. But your mind keeps going back to that golden robot. You make up your mind that you will get it working.
+You open all your presents, there are some really good ones. But your mind keeps going back to that golden robot. You make up your mind that you will get it working. What will it be?
